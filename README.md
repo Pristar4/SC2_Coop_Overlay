@@ -3,6 +3,8 @@
 
 * Or run the script with Python 3.6+:
 
+- Tested with Python 3.10 so i changed requirements.txt to reflect that.
+
 ```
 pip install -r requirements.txt
 python SCO.py
